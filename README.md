@@ -1,0 +1,2 @@
+# djdash
+django visualization prototype
